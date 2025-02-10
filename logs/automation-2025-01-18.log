@@ -1,0 +1,63 @@
+12:53:21.469 [main] INFO  testCase.TC001_AccRegTest - ***    Starting TC001_AccRegTest ****
+12:53:23.530 [main] INFO  testCase.TC001_AccRegTest - Clicked on register link
+17:44:37.652 [main] INFO  testCase.TC001_AccRegTest - ***    Starting TC001_AccRegTest ****
+17:44:38.793 [main] INFO  testCase.TC001_AccRegTest - Clicked on register link
+18:06:52.318 [main] INFO  testCase.TC001_AccRegTest - ***    Starting TC001_AccRegTest ****
+18:06:53.517 [main] INFO  testCase.TC001_AccRegTest - Clicked on register link
+18:07:41.908 [main] INFO  testCase.TC001_AccRegTest - ***    Starting TC001_AccRegTest ****
+18:07:43.612 [main] INFO  testCase.TC001_AccRegTest - Clicked on register link
+18:08:42.473 [main] INFO  testCase.TC001_AccRegTest - ***    Starting TC001_AccRegTest ****
+18:08:43.767 [main] INFO  testCase.TC001_AccRegTest - Clicked on register link
+18:17:03.116 [main] INFO  testCase.TC001_AccRegTest - ***    Starting TC001_AccRegTest ****
+18:17:04.465 [main] INFO  testCase.TC001_AccRegTest - Clicked on register link
+18:17:25.436 [main] INFO  testCase.TC001_AccRegTest - ***    Starting TC001_AccRegTest ****
+18:17:27.295 [main] INFO  testCase.TC001_AccRegTest - Clicked on register link
+18:17:53.080 [main] INFO  testCase.TC001_AccRegTest - ***    Starting TC001_AccRegTest ****
+18:18:02.982 [main] INFO  testCase.TC001_AccRegTest - Clicked on register link
+18:19:21.104 [main] INFO  testCase.TC001_AccRegTest - ***    Starting TC001_AccRegTest ****
+18:19:23.045 [main] INFO  testCase.TC001_AccRegTest - Clicked on register link
+18:20:19.476 [TestNG-tests-1] INFO  testCase.TC001_AccRegTest - ***    Starting TC001_AccRegTest ****
+18:20:24.895 [TestNG-tests-2] INFO  testCase.TC001_AccRegTest - ***    Starting TC001_AccRegTest ****
+18:20:29.839 [TestNG-tests-2] INFO  testCase.TC001_AccRegTest - Clicked on register link
+18:20:29.839 [TestNG-tests-1] INFO  testCase.TC001_AccRegTest - Clicked on register link
+18:20:40.894 [TestNG-tests-3] INFO  testCase.TC001_AccRegTest - ***    Starting TC001_AccRegTest ****
+18:20:42.829 [TestNG-tests-3] INFO  testCase.TC001_AccRegTest - Clicked on register link
+18:44:14.595 [main] INFO  testCase.TC001_AccRegTest - ***    Starting TC001_AccRegTest ****
+18:44:15.896 [main] INFO  testCase.TC001_AccRegTest - Clicked on register link
+12:22:13.061 [main] INFO  testCase.TC002_LoginTest - **** Starting TC002_LoginTest *****
+12:22:15.805 [main] INFO  testCase.TC002_LoginTest - **** finished TC002_LoginTest *****
+15:39:54.988 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ACER\Documents\workspacemyone\Opencartv121\master.xml
+
+15:40:15.661 [main] INFO  testCase.TC003_loginDDT - *** Stating TC_003_LoginDDT***
+15:40:19.979 [main] INFO  testCase.TC003_loginDDT - **** Finshed tes 0003 ***
+15:40:19.997 [main] INFO  testCase.TC003_loginDDT - *** Stating TC_003_LoginDDT***
+15:40:22.389 [main] INFO  testCase.TC003_loginDDT - **** Finshed tes 0003 ***
+15:40:22.396 [main] INFO  testCase.TC003_loginDDT - *** Stating TC_003_LoginDDT***
+15:40:24.564 [main] INFO  testCase.TC003_loginDDT - **** Finshed tes 0003 ***
+15:40:24.572 [main] INFO  testCase.TC003_loginDDT - *** Stating TC_003_LoginDDT***
+15:40:36.627 [main] INFO  testCase.TC003_loginDDT - **** Finshed tes 0003 ***
+15:40:36.633 [main] INFO  testCase.TC003_loginDDT - *** Stating TC_003_LoginDDT***
+15:40:48.093 [main] INFO  testCase.TC003_loginDDT - *** Stating TC_003_LoginDDT***
+15:40:59.568 [main] INFO  testCase.TC003_loginDDT - **** Finshed tes 0003 ***
+15:48:01.979 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ACER\Documents\workspacemyone\Opencartv121\master.xml
+
+15:48:13.072 [main] INFO  testCase.TC003_loginDDT - *** Stating TC_003_LoginDDT***
+15:48:16.413 [main] INFO  testCase.TC003_loginDDT - **** Finshed tes 0003 ***
+15:48:16.436 [main] INFO  testCase.TC003_loginDDT - *** Stating TC_003_LoginDDT***
+15:48:18.485 [main] INFO  testCase.TC003_loginDDT - **** Finshed tes 0003 ***
+15:48:18.501 [main] INFO  testCase.TC003_loginDDT - *** Stating TC_003_LoginDDT***
+15:48:20.935 [main] INFO  testCase.TC003_loginDDT - **** Finshed tes 0003 ***
+15:48:20.998 [main] INFO  testCase.TC003_loginDDT - *** Stating TC_003_LoginDDT***
+15:48:33.082 [main] INFO  testCase.TC003_loginDDT - **** Finshed tes 0003 ***
+15:48:33.087 [main] INFO  testCase.TC003_loginDDT - *** Stating TC_003_LoginDDT***
+15:48:44.538 [main] INFO  testCase.TC003_loginDDT - *** Stating TC_003_LoginDDT***
+15:48:56.038 [main] INFO  testCase.TC003_loginDDT - **** Finshed tes 0003 ***
+17:56:50.231 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ACER\Documents\workspacemyone\Opencartv121\master.xml
+
+17:57:22.718 [main] INFO  testCase.TC003_loginDDT - *** Stating TC_003_LoginDDT***
+17:57:27.231 [main] INFO  testCase.TC003_loginDDT - **** Finshed tes 0003 ***
+17:57:27.247 [main] INFO  testCase.TC003_loginDDT - *** Stating TC_003_LoginDDT***
+17:57:30.794 [main] INFO  testCase.TC003_loginDDT - **** Finshed tes 0003 ***
