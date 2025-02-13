@@ -2,18 +2,18 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-02-09T09:28:17 IST" name="Suite" finished-at="2025-02-09T09:28:36 IST" duration-ms="18955">
+  <suite started-at="2025-02-13T10:50:26 IST" name="Suite" finished-at="2025-02-13T10:51:05 IST" duration-ms="38558">
     <groups>
       <group name="Master">
-        <method signature="TC002_LoginTest.verify_login()[pri:0, instance:testCase.TC002_LoginTest@640f11a1]" name="verify_login" class="testCase.TC002_LoginTest"/>
+        <method signature="TC002_LoginTest.verify_login()[pri:0, instance:testCase.TC002_LoginTest@4b9df8a]" name="verify_login" class="testCase.TC002_LoginTest"/>
       </group> <!-- Master -->
       <group name="Sanity">
-        <method signature="TC002_LoginTest.verify_login()[pri:0, instance:testCase.TC002_LoginTest@640f11a1]" name="verify_login" class="testCase.TC002_LoginTest"/>
+        <method signature="TC002_LoginTest.verify_login()[pri:0, instance:testCase.TC002_LoginTest@4b9df8a]" name="verify_login" class="testCase.TC002_LoginTest"/>
       </group> <!-- Sanity -->
     </groups>
-    <test started-at="2025-02-09T09:28:17 IST" name="Test" finished-at="2025-02-09T09:28:36 IST" duration-ms="18955">
+    <test started-at="2025-02-13T10:50:26 IST" name="Test" finished-at="2025-02-13T10:51:05 IST" duration-ms="38558">
       <class name="testCase.TC002_LoginTest">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCase.TC002_LoginTest@640f11a1]" started-at="2025-02-09T09:28:18 IST" name="setup" finished-at="2025-02-09T09:28:33 IST" duration-ms="14878" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCase.TC002_LoginTest@4b9df8a]" started-at="2025-02-13T10:50:27 IST" name="setup" finished-at="2025-02-13T10:51:02 IST" duration-ms="35078" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -29,11 +29,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verify_login()[pri:0, instance:testCase.TC002_LoginTest@640f11a1]" started-at="2025-02-09T09:28:33 IST" name="verify_login" finished-at="2025-02-09T09:28:35 IST" duration-ms="2447" status="PASS">
+        <test-method signature="verify_login()[pri:0, instance:testCase.TC002_LoginTest@4b9df8a]" started-at="2025-02-13T10:51:02 IST" name="verify_login" finished-at="2025-02-13T10:51:05 IST" duration-ms="2857" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verify_login -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCase.TC002_LoginTest@640f11a1]" started-at="2025-02-09T09:28:35 IST" name="tearDown" finished-at="2025-02-09T09:28:36 IST" duration-ms="1060" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCase.TC002_LoginTest@4b9df8a]" started-at="2025-02-13T10:51:05 IST" name="tearDown" finished-at="2025-02-13T10:51:05 IST" duration-ms="488" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

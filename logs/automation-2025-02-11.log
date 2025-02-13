@@ -1,0 +1,77 @@
+11:48:51.162 [main] INFO  testCase.TC002_LoginTest - **** Starting TC002_LoginTest *****
+11:49:00.656 [main] INFO  testCase.TC002_LoginTest - **** finished TC002_LoginTest *****
+11:55:30.330 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ACER\Documents\workspacemyone\Opencartv121\grouping.xml
+
+11:55:41.041 [main] INFO  testCase.TC001_AccRegTest - ***    Starting TC001_AccRegTest ****
+11:55:42.579 [main] INFO  testCase.TC001_AccRegTest - Clicked on register link
+11:55:50.214 [main] INFO  testCase.TC002_LoginTest - **** Starting TC002_LoginTest *****
+11:55:52.708 [main] INFO  testCase.TC002_LoginTest - **** finished TC002_LoginTest *****
+18:55:17.087 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ACER\Documents\workspacemyone\Opencartv121\grouping.xml
+
+18:55:32.765 [main] INFO  testCase.TC001_AccRegTest - ***    Starting TC001_AccRegTest ****
+18:55:33.946 [main] INFO  testCase.TC001_AccRegTest - Clicked on register link
+18:55:42.632 [main] INFO  testCase.TC002_LoginTest - **** Starting TC002_LoginTest *****
+18:55:44.746 [main] INFO  testCase.TC002_LoginTest - **** finished TC002_LoginTest *****
+18:57:37.764 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ACER\Documents\workspacemyone\Opencartv121\grouping.xml
+
+19:00:17.414 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ACER\Documents\workspacemyone\Opencartv121\master.xml
+
+19:04:11.695 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ACER\Documents\workspacemyone\Opencartv121\master.xml
+
+19:04:19.697 [main] INFO  testCase.TC002_LoginTest - **** Starting TC002_LoginTest *****
+19:04:23.255 [main] INFO  testCase.TC002_LoginTest - **** finished TC002_LoginTest *****
+19:05:37.256 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ACER\Documents\workspacemyone\Opencartv121\CrossBrowserTesting.xml
+
+19:05:48.306 [TestNG-tests-1] INFO  testCase.TC001_AccRegTest - ***    Starting TC001_AccRegTest ****
+19:05:58.805 [TestNG-tests-2] INFO  testCase.TC001_AccRegTest - ***    Starting TC001_AccRegTest ****
+19:05:59.573 [TestNG-tests-1] INFO  testCase.TC001_AccRegTest - Clicked on register link
+19:06:10.068 [TestNG-tests-1] ERROR testCase.TC001_AccRegTest - test faild..
+19:06:10.731 [TestNG-tests-2] ERROR testCase.TC001_AccRegTest - test faild..
+19:20:56.223 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ACER\Documents\workspacemyone\Opencartv121\CrossBrowserTesting.xml
+
+19:21:23.423 [TestNG-tests-2] INFO  testCase.TC001_AccRegTest - ***    Starting TC001_AccRegTest ****
+19:21:23.611 [TestNG-tests-1] INFO  testCase.TC001_AccRegTest - ***    Starting TC001_AccRegTest ****
+19:21:36.854 [TestNG-tests-1] ERROR testCase.TC001_AccRegTest - test faild..
+19:21:47.559 [TestNG-tests-2] ERROR testCase.TC001_AccRegTest - test faild..
+19:23:07.505 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ACER\Documents\workspacemyone\Opencartv121\grouping.xml
+
+19:23:15.162 [main] INFO  testCase.TC001_AccRegTest - ***    Starting TC001_AccRegTest ****
+19:23:17.493 [main] INFO  testCase.TC001_AccRegTest - Clicked on register link
+19:23:25.531 [main] INFO  testCase.TC002_LoginTest - **** Starting TC002_LoginTest *****
+19:23:28.230 [main] INFO  testCase.TC002_LoginTest - **** finished TC002_LoginTest *****
+19:24:06.165 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ACER\Documents\workspacemyone\Opencartv121\grouping.xml
+
+19:24:10.591 [main] INFO  testCase.TC002_LoginTest - **** Starting TC002_LoginTest *****
+19:24:12.719 [main] INFO  testCase.TC002_LoginTest - **** finished TC002_LoginTest *****
+12:34:11.399 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ACER\Documents\workspacemyone\Opencartv121\master.xml
+
+12:35:45.945 [main] INFO  testCase.TC002_LoginTest - **** Starting TC002_LoginTest *****
+12:35:49.119 [main] INFO  testCase.TC002_LoginTest - **** finished TC002_LoginTest *****
+12:39:51.263 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ACER\Documents\workspacemyone\Opencartv121\grouping.xml
+
+12:40:05.848 [main] INFO  testCase.TC002_LoginTest - **** Starting TC002_LoginTest *****
+12:40:09.335 [main] INFO  testCase.TC002_LoginTest - **** finished TC002_LoginTest *****
+19:23:59.265 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ACER\Documents\workspacemyone\Opencartv121\grouping.xml
+
+19:24:19.282 [main] INFO  testCase.TC002_LoginTest - **** Starting TC002_LoginTest *****
+19:24:22.160 [main] INFO  testCase.TC002_LoginTest - **** finished TC002_LoginTest *****
+09:28:17.892 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ACER\Documents\workspacemyone\Opencartv121\grouping.xml
+
+09:28:33.348 [main] INFO  testCase.TC002_LoginTest - **** Starting TC002_LoginTest *****
+09:28:35.774 [main] INFO  testCase.TC002_LoginTest - **** finished TC002_LoginTest *****
+19:30:15.350 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ACER\Documents\workspacemyone\Opencartv121\master.xml
+
