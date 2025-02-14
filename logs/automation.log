@@ -11,3 +11,41 @@
 12:15:16.557 [main] INFO  testCase.TC002_LoginTest - **** finished TC002_LoginTest *****
 12:18:58.895 [main] INFO  testCase.TC002_LoginTest - **** Starting TC002_LoginTest *****
 12:19:01.221 [main] INFO  testCase.TC002_LoginTest - **** finished TC002_LoginTest *****
+13:01:37.882 [main] INFO  testCase.TC002_LoginTest - **** Starting TC002_LoginTest *****
+13:01:40.646 [main] INFO  testCase.TC002_LoginTest - **** finished TC002_LoginTest *****
+13:09:10.129 [main] INFO  testCase.TC002_LoginTest - **** Starting TC002_LoginTest *****
+13:09:12.325 [main] INFO  testCase.TC002_LoginTest - **** finished TC002_LoginTest *****
+18:56:55.637 [main] INFO  testCase.TC002_LoginTest - **** Starting TC002_LoginTest *****
+18:56:57.987 [main] INFO  testCase.TC002_LoginTest - **** finished TC002_LoginTest *****
+19:04:45.785 [main] INFO  testCase.TC4_SeachProduct - ***    Starting TC004_search Test ****
+19:13:25.287 [main] INFO  testCase.TC4_SeachProduct - ***    Starting TC004_search Test ****
+17:35:05.729 [main] INFO  testCase.TC002_LoginTest - **** Starting TC002_LoginTest *****
+17:40:13.363 [main] INFO  testCase.TC002_LoginTest - **** Starting TC002_LoginTest *****
+17:40:15.787 [main] INFO  testCase.TC002_LoginTest - **** finished TC002_LoginTest *****
+17:47:50.714 [main] INFO  testCase.TC001_AccRegTest - ***    Starting TC001_AccRegTest ****
+17:47:51.966 [main] INFO  testCase.TC001_AccRegTest - Clicked on register link
+17:47:58.620 [main] INFO  testCase.TC002_LoginTest - **** Starting TC002_LoginTest *****
+17:48:02.752 [main] INFO  testCase.TC002_LoginTest - **** finished TC002_LoginTest *****
+18:06:53.533 [main] INFO  testCase.TC001_AccRegTest - ***    Starting TC001_AccRegTest ****
+18:06:54.830 [main] INFO  testCase.TC001_AccRegTest - Clicked on register link
+18:07:00.986 [main] INFO  testCase.TC002_LoginTest - **** Starting TC002_LoginTest *****
+18:07:04.176 [main] INFO  testCase.TC002_LoginTest - **** finished TC002_LoginTest *****
+18:07:09.168 [main] INFO  testCase.TC4_SeachProduct - ***    Starting TC004_search Test ****
+18:09:11.288 [main] INFO  testCase.TC001_AccRegTest - ***    Starting TC001_AccRegTest ****
+18:09:12.406 [main] INFO  testCase.TC001_AccRegTest - Clicked on register link
+18:09:18.260 [main] INFO  testCase.TC002_LoginTest - **** Starting TC002_LoginTest *****
+18:09:20.974 [main] INFO  testCase.TC002_LoginTest - **** finished TC002_LoginTest *****
+18:09:25.691 [main] INFO  testCase.TC4_SeachProduct - ***    Starting TC004_search Test ****
+18:47:53.035 [main] INFO  testCase.TC001_AccRegTest - ***    Starting TC001_AccRegTest ****
+18:47:55.412 [main] INFO  testCase.TC001_AccRegTest - Clicked on register link
+18:48:02.198 [main] INFO  testCase.TC002_LoginTest - **** Starting TC002_LoginTest *****
+18:48:05.734 [main] INFO  testCase.TC002_LoginTest - **** finished TC002_LoginTest *****
+19:16:21.051 [main] INFO  testCase.TC001_AccRegTest - ***    Starting TC001_AccRegTest ****
+19:16:22.864 [main] INFO  testCase.TC001_AccRegTest - Clicked on register link
+19:16:29.652 [main] INFO  testCase.TC002_LoginTest - **** Starting TC002_LoginTest *****
+19:16:32.380 [main] INFO  testCase.TC002_LoginTest - **** finished TC002_LoginTest *****
+19:16:36.718 [main] INFO  testCase.TC4_SeachProduct - ***    Starting TC004_search Test ****
+19:16:36.935 [main] INFO  testCase.TC4_SeachProduct - Entered product name in search field: mac
+19:16:37.731 [main] INFO  testCase.TC4_SeachProduct - Navigated to the Search Results page.
+19:16:37.889 [main] INFO  testCase.TC4_SeachProduct - Verifying if the product 'MacBook' is displayed in the search results.
+19:16:37.890 [main] INFO  testCase.TC4_SeachProduct - Product 'MacBook' found in search results. Test passed.
